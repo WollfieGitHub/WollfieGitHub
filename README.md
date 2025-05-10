@@ -1,12 +1,9 @@
 ```ini
 [Occupation]: Creating beautiful profile readmes on Github.
 ```
-<pre>
-  IFjIWjfiwjfijwijf
-    feijiejfie
-          eofkjoefkoefk
-  fejfiejf
-</pre>
+<style>
+ div { background-color: red; }
+</style>
 
 [](https://link.com)
 
