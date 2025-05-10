@@ -2,5 +2,5 @@
 [Occupation]: Creating beautiful profile readmes on Github.
 ```
 
-> [!Hobbies]
+> [!HOBBIES]
 > This is an informational note
